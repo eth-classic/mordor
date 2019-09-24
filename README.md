@@ -27,7 +27,7 @@ Minimun required version: `v6.0.9`
 geth --chain ./gethc.json --port 31000
 ```
 
-### Multi Geth
+### Multi-Geth
 
 Minimun required version: `v1.9.3`
 
@@ -36,10 +36,10 @@ geth init ./mgeth.json
 geth --networkid 7 --port 32000
 ```
 
-### Mantis
+### IOHK Mantis
 
 _Mantis no longer supports Ethereum Classic chains._
 
-### Pantheon/Besu
+### Hyperledger Besu (a.k.a. Pantheon)
 
-_Pantheon/Besu does not support Ethereum Classic yet._
+_Besu does not support Ethereum Classic yet._
