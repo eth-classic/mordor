@@ -36,3 +36,10 @@ geth init ./mgeth.json
 geth --networkid 7 --port 32000
 ```
 
+### Mantis
+
+_Mantis no longer supports Ethereum Classic chains._
+
+### Pantheon/Besu
+
+_Pantheon/Besu does not support Ethereum Classic yet._
