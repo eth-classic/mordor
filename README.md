@@ -1,7 +1,7 @@
 # Mordor [![Join the chat at https://gitter.im/eth-classic/mordor](https://badges.gitter.im/eth-classic/mordor.svg)](https://gitter.im/eth-classic/mordor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The Mordor proof-of-work testnet relaunch for Ethereum Classic to replace Morden.
 
-_Launch: October 3, 2019 at ETCSummit._
+_Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com/eth-classic/mordor/issues/1)_
 
 - Frontier: `0`
 - Homestead: `0`
