@@ -50,7 +50,9 @@
       "extraData":"0x0000000000000000",
       "gasLimit":"0x2fefd8"
    },
-   "nodes":[],
+   "nodes":[
+      "enode://a59e33ccd2b3e52d578f1fbd70c6f9babda2650f0760d6ff3b37742fdcdfdb3defba5d56d315b40c46b70198c7621e63ffa3f987389c7118634b0fefbbdfa7fd@51.15.116.226:30303"
+   ],
    "accounts":{
       "0x0000000000000000000000000000000000000001":{
          "builtin":{
