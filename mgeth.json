@@ -19,8 +19,8 @@
       "trustedCheckpoint":null
    },
    "nonce":"0x0000000000000000",
-   "timestamp":"0x5d8a0870",
-   "extraData":"0x0000000000000000",
+   "timestamp":"0x5d9500ca",
+   "extraData":"0x4c6f72656d20497073756d20446f6c6f72656d2053656c7572",
    "gasLimit":"0x2fefd8",
    "difficulty":"0x20000",
    "mixHash":"0x0000000000000000000000000000000000000000000000000000000000000000",
