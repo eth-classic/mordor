@@ -11,7 +11,7 @@
             "homesteadTransition":"0x0",
             "ecip1010PauseTransition":"0x0",
             "ecip1010ContinueTransition":"0x0",
-            "ecip1017EraRounds":"0x0",
+            "ecip1017EraRounds":"0x1e8480",
             "bombDefuseTransition":"0x0",
             "eip100bTransition":"0x0"
          }
