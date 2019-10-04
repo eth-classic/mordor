@@ -1,5 +1,20 @@
-# Mordor [![Join the chat at https://gitter.im/eth-classic/mordor](https://badges.gitter.im/eth-classic/mordor.svg)](https://gitter.im/eth-classic/mordor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-The Mordor proof-of-work testnet relaunch for Ethereum Classic to replace Morden.
+# Mordor
+[![Join the chat at https://gitter.im/eth-classic/mordor](https://badges.gitter.im/eth-classic/mordor.svg)](https://gitter.im/eth-classic/mordor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+<p align="center">
+<img src="https://github.com/stevanlohja/ETC_Gifs/blob/master/mordor_testnet/mordor_logo.png?raw=true">
+</p>
+
+<center>
+  <h3 align="center">Mordor</h3>
+  <p align="center">
+    An Ethereum Classic PoW testnet to replace Morden.
+    <br />
+    <a href="https://mordorexplorer.ethernode.io/">Mordor Explorer</a>
+    ·
+    <a href="https://github.com/eth-classic/mordor/issues/new">Create an Issue</a>
+  </p>
+</center>
 
 _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com/eth-classic/mordor/issues/1)_
 
