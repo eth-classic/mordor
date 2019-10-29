@@ -25,6 +25,7 @@ _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com
 - Gotham: `0`
 - Defuse Difficulty Bomb: `0`
 - Atlantis: `0`
+- Agharta: `301_243`
 
 ### Parity Ethereum
 
