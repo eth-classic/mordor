@@ -120,6 +120,19 @@
                   }
                }
             ]
+         },
+         {
+             "name": "Agharta",
+             "block": 301243,
+             "requiredHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+             "features": [
+                 {
+                     "id": "gastable",
+                     "options": {
+                         "type": "agharta"
+                     }
+                 }
+             ]
          }
       ],
       "badHashes":[]
