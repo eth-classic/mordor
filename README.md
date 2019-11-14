@@ -27,9 +27,15 @@ _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com
 - Atlantis: `0`
 - Agharta: `301_243`
 
+### Genesis hash
+
+```
+0xa68ebde7932eccb177d38d55dcc6461a019dd795a681e59b5a3e4f3a7259a3f1
+```
+
 ### Parity Ethereum
 
-Minimun required version: `v2.5.8`
+Minimum required version: `v2.5.8`
 
 ```
 parity --chain ./parity.json --port 30000
@@ -37,7 +43,7 @@ parity --chain ./parity.json --port 30000
 
 ### Geth Classic
 
-Minimun required version: `v6.0.9`
+Minimum required version: `v6.0.9`
 
 ```
 geth --chain ./gethc.json --port 31000
@@ -45,7 +51,7 @@ geth --chain ./gethc.json --port 31000
 
 ### Multi-Geth
 
-Minimun required version: `v1.9.3`
+Minimum required version: `v1.9.3`
 
 ```
 geth init ./mgeth.json
