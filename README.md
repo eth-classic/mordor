@@ -26,6 +26,12 @@ _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com
 - Defuse Difficulty Bomb: `0`
 - Atlantis: `0`
 
+### Genesis hash
+
+```
+0xa68ebde7932eccb177d38d55dcc6461a019dd795a681e59b5a3e4f3a7259a3f1
+```
+
 ### Parity Ethereum
 
 Minimum required version: `v2.5.8`
