@@ -10,7 +10,9 @@
   <p align="center">
     An Ethereum Classic PoW testnet to replace Morden.
     <br />
-    <a href="https://mordorexplorer.ethernode.io/">Mordor Explorer</a>
+    <a href="http://mordor.etccoopexplorer.com/">Explorer</a>
+    ·
+    <a href="http://mordor.canhaz.net/">Faucet</a>
     ·
     <a href="https://github.com/eth-classic/mordor/issues/new">Create an Issue</a>
   </p>
@@ -26,6 +28,7 @@ _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com
 - Defuse Difficulty Bomb: `0`
 - Atlantis: `0`
 - Agharta: `301_243`
+- Aztlán: `778_507`
 
 ### Genesis hash
 
@@ -35,33 +38,32 @@ _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com
 
 ### Parity Ethereum
 
-Minimum required version: `v2.5.8`
+Minimum required version: `v2.5.10`
 
 ```
-parity --chain ./parity.json --port 30000
+parity --chain mordor
 ```
 
 ### Geth Classic
 
-Minimum required version: `v6.0.9`
+Minimum required version: `v6.1.1`
 
 ```
-geth --chain ./gethc.json --port 31000
+geth --chain mordor
 ```
 
 ### Multi-Geth
 
-Minimum required version: `v1.9.3`
+Minimum required version: `v1.9.4`
 
 ```
-geth init ./mgeth.json
-geth --networkid 7 --port 32000
+geth --mordor
 ```
-
-### IOHK Mantis
-
-_Mantis no longer supports Ethereum Classic chains._
 
 ### Hyperledger Besu (a.k.a. Pantheon)
 
-_Besu does not support Ethereum Classic yet._
+Minimum required version: `v1.3.6`
+
+```
+besu --network mordor
+```
