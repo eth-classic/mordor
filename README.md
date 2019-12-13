@@ -62,6 +62,10 @@ geth --networkid 7 --port 32000
 
 _Mantis no longer supports Ethereum Classic chains._
 
-### Hyperledger Besu (a.k.a. Pantheon)
+### Hyperledger Besu
 
-_Besu does not support Ethereum Classic yet._
+Minimum required version: `v1.3.7`
+
+```
+besu --genesis-file=./besu.json --port 33000
+```
