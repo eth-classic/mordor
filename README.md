@@ -10,7 +10,7 @@
   <p align="center">
     An Ethereum Classic PoW testnet to replace Morden.
     <br />
-    <a href="https://mordorexplorer.ethernode.io/">Mordor Explorer</a>
+    <a href="http://mordor.etccoopexplorer.com/">Mordor Explorer</a>
     ·
     <a href="https://github.com/eth-classic/mordor/issues/new">Create an Issue</a>
   </p>
@@ -57,10 +57,6 @@ Minimum required version: `v1.9.3`
 geth init ./mgeth.json
 geth --networkid 7 --port 32000
 ```
-
-### IOHK Mantis
-
-_Mantis no longer supports Ethereum Classic chains._
 
 ### Hyperledger Besu (a.k.a. Pantheon)
 
