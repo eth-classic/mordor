@@ -20,6 +20,10 @@
 
 _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com/eth-classic/mordor/issues/1)_
 
+<p align="center">
+[![Live Launch](https://img.youtube.com/vi/Msi6EItbslk/0.jpg)](https://www.youtube.com/watch?v=Msi6EItbslk&start=24051)
+</p>
+
 - Frontier: `0`
 - Homestead: `0`
 - GasReprice: `0`
@@ -38,7 +42,7 @@ _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com
 
 ### Parity-Ethereum
 
-Minimum required version: `v2.5.10`
+Minimum required version: `v2.5.12`
 
 ```
 parity --chain mordor
@@ -46,7 +50,7 @@ parity --chain mordor
 
 ### Geth Classic
 
-Minimum required version: `v6.1.1`
+Minimum required version: `v6.1.2`
 
 ```
 geth --chain mordor
@@ -54,7 +58,7 @@ geth --chain mordor
 
 ### Multi-Geth
 
-Minimum required version: `v1.9.4`
+Minimum required version: `v1.9.6`
 
 ```
 geth --mordor
@@ -62,7 +66,7 @@ geth --mordor
 
 ### Hyperledger Besu
 
-Minimum required version: `v1.3.6`
+Minimum required version: `v1.3.7`
 
 ```
 besu --network mordor
