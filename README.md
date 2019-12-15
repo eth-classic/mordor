@@ -21,7 +21,7 @@
 _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com/eth-classic/mordor/issues/1)_
 
 <p align="center">
-[![Live Launch](https://img.youtube.com/vi/Msi6EItbslk/0.jpg)](https://www.youtube.com/watch?v=Msi6EItbslk&start=24051)
+<a href="https://www.youtube.com/watch?v=Msi6EItbslk&start=24051"><img src="https://img.youtube.com/vi/Msi6EItbslk/0.jpg" /></a>
 </p>
 
 - Frontier: `0`
