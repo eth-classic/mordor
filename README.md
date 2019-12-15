@@ -36,7 +36,7 @@ _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com
 0xa68ebde7932eccb177d38d55dcc6461a019dd795a681e59b5a3e4f3a7259a3f1
 ```
 
-### Parity Ethereum
+### Parity-Ethereum
 
 Minimum required version: `v2.5.10`
 
@@ -60,7 +60,7 @@ Minimum required version: `v1.9.4`
 geth --mordor
 ```
 
-### Hyperledger Besu (a.k.a. Pantheon)
+### Hyperledger Besu
 
 Minimum required version: `v1.3.6`
 
