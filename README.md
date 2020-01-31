@@ -40,25 +40,35 @@ _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com
 0xa68ebde7932eccb177d38d55dcc6461a019dd795a681e59b5a3e4f3a7259a3f1
 ```
 
+### Resources
+
+Status Dashboard:
+- http://mordor.etcstats.org
+- http://mordor.etherstats.net
+
+Block Explorer:
+- https://blockscout.com/etc/mordor/
+- http://mordor.ethereumtest.net
+- https://expedition.dev/?network=mordor
+
+Faucets:
+- http://mordor.canhaz.net/
+- http://mordor.etherdrip.net
+
+Public End Point:
+- https://www.ethercluster.com/mordor
+
 ### Parity-Ethereum
 
-Minimum required version: `v2.5.12`
+Minimum required version: `v2.7.1`
 
 ```
 parity --chain mordor
 ```
 
-### Geth Classic
-
-Minimum required version: `v6.1.2`
-
-```
-geth --chain mordor
-```
-
 ### Multi-Geth
 
-Minimum required version: `v1.9.6`
+Minimum required version: `v1.9.7`
 
 ```
 geth --mordor
@@ -66,8 +76,18 @@ geth --mordor
 
 ### Hyperledger Besu
 
-Minimum required version: `v1.3.7`
+Minimum required version: `v1.4.0`
 
 ```
 besu --network mordor
 ```
+
+### ~~Geth Classic~~
+
+Minimum required version: `v6.1.2` (deprecated)
+
+```
+geth --chain mordor
+```
+
+Geth Classic reached end of life and is no longer recommended.
