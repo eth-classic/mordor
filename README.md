@@ -1,14 +1,10 @@
 # Mordor
 [![Join the chat at https://gitter.im/eth-classic/mordor](https://badges.gitter.im/eth-classic/mordor.svg)](https://gitter.im/eth-classic/mordor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-<p align="center">
-<img src="https://github.com/stevanlohja/ETC_Gifs/blob/master/mordor_testnet/mordor_logo.png?raw=true">
-</p>
-
 <center>
   <h3 align="center">Mordor</h3>
   <p align="center">
-    An Ethereum Classic PoW testnet to replace Morden.
+    An Ethereum Classic PoW testnet to replace Morden Classic.
     <br />
     <a href="http://mordor.etccoopexplorer.com/">Explorer</a>
     ·
@@ -21,7 +17,7 @@
 _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com/eth-classic/mordor/issues/1)_
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=Msi6EItbslk&start=24051"><img src="https://img.youtube.com/vi/Msi6EItbslk/0.jpg" /></a>
+<a href="https://www.youtube.com/watch?v=sURnZEeIqBU"><img src="https://img.youtube.com/vi/Msi6EItbslk/0.jpg" /></a>
 </p>
 
 - Frontier: `0`
@@ -32,7 +28,7 @@ _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com
 - Defuse Difficulty Bomb: `0`
 - Atlantis: `0`
 - Agharta: `301_243`
-- Aztlán: `778_507`
+- Phoenix: `999_983`
 
 ### Genesis hash
 
@@ -58,36 +54,36 @@ Faucets:
 Public End Point:
 - https://www.ethercluster.com/mordor
 
-### Parity-Ethereum
+### Core-Geth
 
-Minimum required version: `v2.7.1`
-
-```
-parity --chain mordor
-```
-
-### Multi-Geth
-
-Minimum required version: `v1.9.7`
+Minimum required version: `v1.11.0`
 
 ```
 geth --mordor
 ```
+- https://github.com/etclabscore/core-geth/releases/tag/v1.11.0
 
 ### Hyperledger Besu
 
-Minimum required version: `v1.4.0`
+Minimum required version: `v1.4.2`
 
 ```
 besu --network mordor
 ```
+- https://github.com/hyperledger/besu/releases/tag/1.4.1
 
-### ~~Geth Classic~~
+### Open-Ethereum _(deprecated, formerly Parity-Ethereum)_
 
-Minimum required version: `v6.1.2` (deprecated)
+Minimum required version: `nightly`
 
 ```
-geth --chain mordor
+openethereum --chain mordor
 ```
 
-Geth Classic reached end of life and is no longer recommended.
+### Multi-Geth _(deprecated)_
+
+Minimum required version: `v1.9.11`
+
+```
+geth --mordor
+```
