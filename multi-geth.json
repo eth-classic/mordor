@@ -12,6 +12,7 @@
       "disposalBlock":0,
       "constantinopleBlock":301243,
       "petersburgBlock":301243,
+      "istanbulBlock":999983,
       "ECIP1017EraRounds":2000000,
       "eip160FBlock":0,
       "ecip1010PauseBlock":0,
