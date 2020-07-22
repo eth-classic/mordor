@@ -20,6 +20,8 @@ _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com
 <a href="https://www.youtube.com/watch?v=sURnZEeIqBU"><img src="https://img.youtube.com/vi/Msi6EItbslk/0.jpg" /></a>
 </p>
 
+- Network ID: `7`
+- Chain ID: `63`
 - Frontier: `0`
 - Homestead: `0`
 - GasReprice: `0`
@@ -71,6 +73,15 @@ Minimum required version: `v1.4.2`
 besu --network mordor
 ```
 - https://github.com/hyperledger/besu/releases/tag/1.4.1
+
+### OpenETC _(formerly Open-Ethereum)_
+
+Minimum required version: `v3.0.1`
+
+```
+openetc --chain mordor
+```
+- https://github.com/openetc/openetc/releases/tag/v3.0.1
 
 ### Open-Ethereum _(deprecated, formerly Parity-Ethereum)_
 
