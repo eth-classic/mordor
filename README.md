@@ -6,7 +6,11 @@
   <p align="center">
     An Ethereum Classic PoW testnet to replace Morden Classic.
     <br />
-    <a href="http://mordor.etccoopexplorer.com/">Explorer</a>
+    <a href="https://blockscout.com/etc/mordor/">Explorer</a>
+    ·
+    <a href="https://mordor.dash.fault.dev/">Dashboard</a>
+    ·
+    <a href="https://mordor.fork.fault.dev/">Fork Mon</a>
     ·
     <a href="http://mordor.canhaz.net/">Faucet</a>
     ·
@@ -29,6 +33,7 @@ _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com
 - Atlantis: `0`
 - Agharta: `301_243`
 - Phoenix: `999_983`
+- Thanos: `2_520_000`
 
 ### Genesis hash
 
@@ -39,51 +44,36 @@ _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com
 ### Resources
 
 Status Dashboard:
-- http://mordor.etcstats.org
-- http://mordor.etherstats.net
+- https://mordor.dash.fault.dev
+
+Fork Monitoring:
+- https://mordor.fork.fault.dev
 
 Block Explorer:
-- https://blockscout.com/etc/mordor/
-- http://mordor.ethereumtest.net
+- https://blockscout.com/etc/mordor
 - https://expedition.dev/?network=mordor
 
-Faucets:
-- http://mordor.canhaz.net/
-- http://mordor.etherdrip.net
+Faucet:
+- http://mordor.canhaz.net
 
 Public End Point:
 - https://www.ethercluster.com/mordor
+- https://services.fault.dev
 
 ### Core-Geth
 
-Minimum required version: `v1.11.0`
+Minimum required version: `v1.11.16`
 
 ```
 geth --mordor
 ```
-- https://github.com/etclabscore/core-geth/releases/tag/v1.11.0
+- https://github.com/etclabscore/core-geth/releases
 
 ### Hyperledger Besu
 
-Minimum required version: `v1.4.2`
+Minimum required version: `v20.10.0-RC2`
 
 ```
 besu --network mordor
 ```
-- https://github.com/hyperledger/besu/releases/tag/1.4.1
-
-### Open-Ethereum _(deprecated, formerly Parity-Ethereum)_
-
-Minimum required version: `nightly`
-
-```
-openethereum --chain mordor
-```
-
-### Multi-Geth _(deprecated)_
-
-Minimum required version: `v1.9.11`
-
-```
-geth --mordor
-```
+- https://github.com/hyperledger/besu/releases
