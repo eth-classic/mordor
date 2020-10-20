@@ -24,6 +24,8 @@ _Launch: October 3, 2019 at ETCSummit. [eth-classic/mordor#1](https://github.com
 <a href="https://www.youtube.com/watch?v=sURnZEeIqBU"><img src="https://img.youtube.com/vi/Msi6EItbslk/0.jpg" /></a>
 </p>
 
+- Network ID: `7`
+- Chain ID: `63`
 - Frontier: `0`
 - Homestead: `0`
 - GasReprice: `0`
