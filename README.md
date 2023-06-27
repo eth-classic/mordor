@@ -59,7 +59,7 @@ Faucet:
 - http://mordor.canhaz.net
 
 Public End Point:
-- https://www.ethercluster.com/mordor
+- https://rpc.mordor.etccooperative.org
 - https://services.fault.dev
 
 ### Core-Geth
